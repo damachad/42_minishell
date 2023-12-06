@@ -31,11 +31,15 @@ To get started with Minishell, follow these steps:
 ## Usage Example 📝
 
 ```sh
-$ ls -l
+$ ls -l > outfile.txt
+$ cd ..
+$ pwd
 $ echo "Hello, Minishell!"
 $ << EOF cat | wc
+$ env
 $ export MY_VARIABLE="42"
 $ echo $MY_VARIABLE
+$ exit 2
 ```
 
 ### Documentation
