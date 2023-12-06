@@ -37,5 +37,4 @@ $ echo $MY_VARIABLE
 ```
 
 ### Documentation
-- [Lexer](https://spicy-dirigible-2b6.notion.site/Lexer-5a3b48397dda4492a2c4364f710255aa?pvs=4)
-- [Parser](https://www.notion.so/Parser-7b271a7bd7e549269bb571e692bf7637)
+- [Minishell](https://spicy-dirigible-2b6.notion.site/Minishell-7b271a7bd7e549269bb571e692bf7637)
