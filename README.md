@@ -24,7 +24,9 @@ To get started with Minishell, follow these steps:
 1. Clone the repository: `git clone https://github.com/damachad/42_minishell.git`
 2. Navigate to the project directory: `cd minishell`
 3. Build the project: `make`
-4. Run Minishell: `./minishell`
+4. Run Minishell: `./minishell`   
+   
+**Note:** Make sure you have the required libraries installed, such as [readline](https://stackoverflow.com/questions/74551364/where-do-i-find-the-c-readline-library-in-ubuntu).
 
 ## Usage Example 📝
 
