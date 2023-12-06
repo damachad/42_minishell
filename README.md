@@ -5,7 +5,7 @@ A simple shell implementation that takes bash as a reference.
 
 - **Prompt:** Displays a prompt when waiting for a new command.
 - **History:** Has a working command history.
-- **Command Execution:** Searches and launched the right executable based on the PATH variable or using an absolute path.
+- **Command Execution:** Searches and launches the right executable based on the PATH variable or using an absolute path.
 - **Single Quotes:** Handles single quotes to prevent interpretation of meta-characters in the quoted sequence.
 - **Double Quotes:** Handles double quotes to prevent interpretation of meta-characters, except for `$` (dollar sign).
 - **Redirections:** Implements various redirections, such as `<`, `>`, `<<`, and `>>`.
